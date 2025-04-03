@@ -1,4 +1,4 @@
-package Capitulo01;
+package Capitulo_01;
 
 import java.util.Scanner;
 

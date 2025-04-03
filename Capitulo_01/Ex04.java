@@ -1,4 +1,4 @@
-package Capitulo01;
+package Capitulo_01;
 public class Ex04 {
     public static void main(String[] args) {
         //  Exercício 3: Variáveis e Tipos de Dados

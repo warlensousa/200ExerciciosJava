@@ -1,4 +1,4 @@
-package Capitulo01;
+package Capitulo_01;
 public class Ex09 {
     //  Exercício 9: Tipos de Variáveis
     static String  variavelGlobal  = "Naruto";

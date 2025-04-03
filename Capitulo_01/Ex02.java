@@ -1,4 +1,4 @@
-package Capitulo01;
+package Capitulo_01;
 public class Ex02 {
     public static void main(String[] args) {
     
